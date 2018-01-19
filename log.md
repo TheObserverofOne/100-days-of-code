@@ -33,7 +33,7 @@
 
 ### Day 4: Jan 5th, 2018
 
-**Today's Progress**: Took a break from both courses, focused on CS:50 - the basics.  
+**Today's Progress**: Took a break from both courses, focused on CS:50 - the basics, began side project.  
 
 **Thoughts** Before delving into JS, I figured it would would be best to get a refresher on computer science.  Got two videos in, enjoyed it immensely. 
 
@@ -41,7 +41,7 @@
 
 ### Day 5: Jan 7th, 2018
 
-**Today's Progress**: Watched more CS50, learned something new today about the web.  
+**Today's Progress**: Watched more CS50, learned something new today about the web, continued working on side project.  
 
 **Thoughts** Thought I knew all there was to know from all my years hacking away on computers as a youngling... BUT I was wrong!  Or I forgot.  Anyway, I'm enjoying these videos and also feeling as if I've missed out on way too much since messing around with ASP 12 years ago!
 
@@ -81,7 +81,7 @@
 
 ### Day 10: Jan 12th, 2018
 
-**Today's Progress**: Finished the todos app!~  
+**Today's Progress**: Finished the todos app!~  https://codepen.io/TheObserverofOne/pen/LeMdqx
 
 **Thoughts** It's done, finally!  I was impatient with getting that finished.  The code looks clean, concise, and confusing.  But only at first glance, once I get a better look at what's going on through the DOM, it becomes clearer.  This is only the beginning though, the basics.  Loops are my kryptonite right now, so I'll unfortunately need to focus on those FOR a WHILE.  
 
