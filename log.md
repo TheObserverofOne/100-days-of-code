@@ -2,14 +2,14 @@
 
 ### Day 0: Jan 1st, 2018
 
-**Today's Progress**: Worked on custom CSS-inline, fooled around with Sass and HTML.  https://codepen.io/TheObserverofOne/pen/BJvxBq
+**Today's Progress**: Worked on custom CSS-inline, fooled around with Sass and HTML. https://codepen.io/TheObserverofOne/pen/YYdLqe https://codepen.io/TheObserverofOne/pen/BJvxBq https://codepen.io/TheObserverofOne/pen/xpmaGR
 
 **Thoughts:** Remembering the good ole days of Myspace CSS, *ahem*
 
 
 ### Day 1: Jan 2nd 2018 
 
-**Today's Progress**: Made some responsive landing pages, looked at Bootstrap, went back to custom CSS
+**Today's Progress**: Made some responsive landing pages, looked at Bootstrap, went back to custom CSS.  https://codepen.io/TheObserverofOne/pen/WdLyGG
 
 **Thoughts**: I like things to be harder, dont' know why, but Bootstrap made me feel like a villain.
 
@@ -17,7 +17,7 @@
 
 ### Day 2: Jan 3rd, 2018
 
-**Today's Progress**: I decided to focus on the full-stack web developer course today, brushed on on my HTML and CSS knowledge... again.  
+**Today's Progress**: I decided to focus on the full-stack web developer course today, brushed on on my HTML and CSS knowledge... again.  https://codepen.io/TheObserverofOne/pen/ypGEMo  https://codepen.io/TheObserverofOne/pen/NXezOj
 
 **Thoughts** Floating, flex-boxing, gridding... it's all relative, really.  But I prefer grids.  
 
@@ -25,7 +25,7 @@
 
 ### Day 3: Jan 4th, 2018
 
-**Today's Progress**: More of the Udemy Web developer course.  I realized I bought two... one with Rob, one with Colt.  Double-learning day.  Two pages built.  
+**Today's Progress**: More of the Udemy Web developer course.  I realized I bought two... one with Rob, one with Colt.  Double-learning day.  Two pages built.  https://codepen.io/TheObserverofOne/pen/Qazxgp https://codepen.io/TheObserverofOne/pen/OzrEep
 
 **Thoughts** I enjoy messing around with CSS properties, still not interested in Bootstrap.  
 
@@ -35,7 +35,7 @@
 
 **Today's Progress**: Took a break from both courses, focused on CS:50 - the basics, began side project.  
 
-**Thoughts** Before delving into JS, I figured it would would be best to get a refresher on computer science.  Got two videos in, enjoyed it immensely. 
+**Thoughts** Before delving into JS, I figured it would would be best to get a refresher on computer science.  Got two videos in, enjoyed it immensely.  https://codepen.io/TheObserverofOne/pen/qpLKKw
 
 
 
@@ -43,21 +43,21 @@
 
 **Today's Progress**: Watched more CS50, learned something new today about the web, continued working on side project.  
 
-**Thoughts** Thought I knew all there was to know from all my years hacking away on computers as a youngling... BUT I was wrong!  Or I forgot.  Anyway, I'm enjoying these videos and also feeling as if I've missed out on way too much since messing around with ASP 12 years ago!
+**Thoughts** Thought I knew all there was to know from all my years hacking away on computers as a youngling... BUT I was wrong!  Or I forgot.  Anyway, I'm enjoying these videos and also feeling as if I've missed out on way too much since messing around with ASP 12 years ago!  https://codepen.io/TheObserverofOne/pen/dJwKZE
 
 
 
 ### Day 6: Jan 8th, 2018
 
-**Today's Progress**: More CS:50, dabbling with Python today.  
+**Today's Progress**: More CS:50, dabbling with Python today, mostly in JS though.  https://codepen.io/TheObserverofOne/pen/GyPXjB
 
-**Thoughts** Seriously considering Python over JS, but it seems as if they work well together, so I'll stick with JS as my main language and branch out to Python when I've fully understood JS.
+**Thoughts** Seriously considering Python over JS, but it seems as if they work well together, so I'll stick with JS as my main language and branch out to Python when I've fully understood JS. https://codepen.io/TheObserverofOne/pen/jYXKzL
 
 
 
 ### Day 7: Jan 9th, 2018
 
-**Today's Progress**: Went through 3 lessons of a Watch and Code course linked off Hack Reactor's site, looked at other prep work.  
+**Today's Progress**: Went through 3 lessons of a Watch and Code course linked off Hack Reactor's site, looked at other prep work. https://codepen.io/TheObserverofOne/pen/LeMdqx 
 
 **Thoughts** Really into this course, but do feel as if I'll forget all of what I've learned here.  I do understand it though, that is what matters right now.
 
@@ -65,7 +65,7 @@
 
 ### Day 8: Jan 10th, 2018
 
-**Today's Progress**: More Watch and Code.  Up to version 4 of this Todos web app.    
+**Today's Progress**: More Watch and Code.  Up to version 4 of this Todos web app.    https://codepen.io/TheObserverofOne/pen/LeMdqx
 
 **Thoughts** I'm enjoying everything I'm learning here, though I don't think I like loops too much.  Functions, arrays, objects and methods are all a go.
 
@@ -73,7 +73,7 @@
 
 ### Day 9: Jan 11th, 2018
 
-**Today's Progress**: Up to Version 8 of the todos app.  Did some background reading on JS as well.  
+**Today's Progress**: Up to Version 8 of the todos app.  Did some background reading on JS as well.  https://codepen.io/TheObserverofOne/pen/LeMdqx
 
 **Thoughts** I'm halfway sure I know what is going on.  I don't have a question mark going on, so that is good or I am so lost that I don't know if I don't grasp what I'm doing here.  I think I'll be going through this W&C again.
 
@@ -89,7 +89,7 @@
 
 ### Day 11: Jan 13th, 2018
 
-**Today's Progress**: Went through the first and second chapters of Udacity's Intro to JS. Did a code-along video making a rock, paper, scissors game using JS using my own snazzy CSS skills.   
+**Today's Progress**: Went through the first and second chapters of Udacity's Intro to JS. Did a code-along video making a rock, paper, scissors game using JS using my own snazzy CSS skills.   https://codepen.io/TheObserverofOne/pen/mpaGMG
 
 **Thoughts** After the Watch and Code, this is definitely feeling easy and I am able to finish problems easily.  The rock-paper-scissors page was a lot of fun to build.
 
@@ -121,7 +121,7 @@
 
 ### Day 15: Jan 17th, 2018
 
-**Today's Progress**: Finished jQuery section on FCC, starting the Tribute page. 
+**Today's Progress**: Finished jQuery section on FCC, starting the Tribute page, created responsive form with custom css. https://codepen.io/TheObserverofOne/pen/mpaGpz
 
 **Thoughts** Although I've made several pages before, this is daunting to me because I'm not used to avoiding custom CSS.  My tendency is to want to start up an external style sheet to achieve everything shown in the example, but I'm attempting to rely on Bootstrap and jQuery tricks to achieve a decent page. 
 
