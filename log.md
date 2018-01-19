@@ -2,7 +2,7 @@
 
 ### Day 0: Jan 1st, 2018
 
-**Today's Progress**: Worked on custom CSS, fooled around with Sass and HTML
+**Today's Progress**: Worked on custom CSS-inline, fooled around with Sass and HTML.  https://codepen.io/TheObserverofOne/pen/BJvxBq
 
 **Thoughts:** Remembering the good ole days of Myspace CSS, *ahem*
 
