@@ -99,7 +99,7 @@
 
 **Today's Progress**: All the way up to the half-way mark on Arrays now in the Intro to JS course.   
 
-**Thoughts** I've had some stumbling blocks with a few of the problem sets, mostly with me overthinking the solution and adding in too many variables or extra bits of unnecessary code.  I'm finding that I usually am close to being correct the first try, then once I run test and get a negative, I try a completely different route and get way off the mark.  Thinking I should defeinitely attempt to NOT do that.  However, it is a good feeling knowing that I tend to be very close to the correct answer on problems that I get wrong.   
+**Thoughts** I've had some stumbling blocks with a few of the problem sets, mostly with me overthinking the solution and adding in too many variables or extra bits of unnecessary code.  I'm finding that I usually am close to being correct the first try, then once I run test and get a negative, I try a completely different route and get way off the mark.  Thinking I should definitely attempt to NOT do that.  However, it is a good feeling knowing that I tend to be very close to the correct answer on problems that I get wrong.   
 
 
 
@@ -115,7 +115,7 @@
 
 **Today's Progress**:Officially started the 100 days of code, although I technically started it Jan 1st (or more accurately, Dec. 27th of 2017).  Did the whole Bootstrap section on Freecodecamp.  Looked at some jQuery.  
 
-**Thoughts** Bootstrap isn't that bad, it definietely has its pros when it comes down to quickly being efficient.  jQuery also seems decent.  I like that I can incorporate css in it.  Animations are fun, especially thinking of using unhinged on a personal project. 
+**Thoughts** Bootstrap isn't that bad, it definitely has its pros when it comes down to being quick and efficient.  jQuery also seems decent.  I like that I can incorporate css in it.  Animations are fun, especially thinking of using unhinged on a personal project. 
 
 
 
