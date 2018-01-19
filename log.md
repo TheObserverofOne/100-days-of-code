@@ -127,6 +127,14 @@
 
 
 
+### Day 16: Jan 18th, 2018
+
+**Today's Progress**: Finished Tribute page. https://codepen.io/TheObserverofOne/pen/VyVrMW/
+
+**Thoughts** I had trouble figuring out how to get everything centered at first without relying on custom CSS, but I finally figured it out.  I also had fun re-learning about Madam C.J. Walker!   
+
+
+
 
 
 
